@@ -8,6 +8,7 @@ The study aims to improve the efficiency of Natural Language Processing (NLP) te
 
 ## Data Overview
 Dataset: https://archive.ics.uci.edu/dataset/239/legal+case+reports
+
 The dataset contains Australian legal cases from the Federal Court (FCA) downloaded from AustLII for the years 2006 to 2009. It's tailored for testing automatic summarization and citation analysis. Each document includes catchphrases, citation sentences, citation catchphrases, and citation classes, providing valuable material for summarization experiments and understanding case citations.
 
 ## Preprocessing

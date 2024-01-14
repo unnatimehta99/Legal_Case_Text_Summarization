@@ -26,5 +26,5 @@ We explored several classification algorithms to predict genres:
 We use the ROUGE (Recall-Oriented Understudy for Gisting Evaluation) metric to measure the quality of the generated summaries in comparison to the human-authored summaries.
   
 ## Conclusion
-This project showcases the power of audio features in generating legal case summaries. By leveraging machine learning techniques, we successfully built accurate models for text summarization. 
+This project showcases the generation legal case summaries. By leveraging machine learning techniques, we successfully built accurate models for text summarization. 
 
